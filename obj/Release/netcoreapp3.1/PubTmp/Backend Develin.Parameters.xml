@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="DevelinAPI" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^E:\\1920-b1-be-OussamaSadik\\obj\\Release\\netcoreapp3\.1\\PubTmp\\Out\\$" />
+  </parameter>
+  <parameter name="Backend_Develin.Data.ProjectContext" description="" value="Data Source=tcp:backenddevelindbserver.database.windows.net,1433;Initial Catalog=develin_db;User Id=dasik0@backenddevelindbserver;Password=1974Sadik" tags="dbfullsql">
+    <parameterEntry kind="ProviderPath" scope="dbfullsql" match="^E:\\1920-b1-be-OussamaSadik\\obj\\Release\\netcoreapp3\.1\\PubTmp\\EFSQLScripts\\Backend_Develin\.Data\.ProjectContext\.sql$" />
+  </parameter>
+</parameters>

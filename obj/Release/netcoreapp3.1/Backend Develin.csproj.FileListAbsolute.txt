@@ -1,0 +1,305 @@
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\appsettings.Development.json
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\appsettings.json
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\Backend Develin.exe
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\Backend Develin.deps.json
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\Backend Develin.runtimeconfig.json
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\Backend Develin.runtimeconfig.dev.json
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\Backend Develin.dll
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\Backend Develin.pdb
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\Backend Develin.xml
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\IdentityServer3.dll
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\Namotion.Reflection.dll
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\NJsonSchema.dll
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\NSwag.Annotations.dll
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\NSwag.AspNetCore.dll
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\NSwag.Core.dll
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\NSwag.Generation.dll
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\NSwag.Generation.AspNetCore.dll
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\Owin.dll
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\obj\Release\netcoreapp3.1\Backend Develin.csprojAssemblyReference.cache
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\obj\Release\netcoreapp3.1\Backend Develin.csproj.CoreCompileInputs.cache
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\obj\Release\netcoreapp3.1\Backend Develin.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\obj\Release\netcoreapp3.1\Backend Develin.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\obj\Release\netcoreapp3.1\Backend Develin.AssemblyInfoInputs.cache
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\obj\Release\netcoreapp3.1\Backend Develin.AssemblyInfo.cs
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\obj\Release\netcoreapp3.1\Backend Develin.RazorTargetAssemblyInfo.cache
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\obj\Release\netcoreapp3.1\Backend Develin.csproj.CopyComplete
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\obj\Release\netcoreapp3.1\staticwebassets\Backend Develin.StaticWebAssets.Manifest.cache
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\obj\Release\netcoreapp3.1\staticwebassets\Backend Develin.StaticWebAssets.xml
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\obj\Release\netcoreapp3.1\Backend Develin.dll
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\obj\Release\netcoreapp3.1\Backend Develin.xml
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\obj\Release\netcoreapp3.1\Backend Develin.pdb
+C:\Users\Dsk0\Documents\GitHub\1920-b1-fe-OussamaSadik\develin-BE\obj\Release\netcoreapp3.1\Backend Develin.genruntimeconfig.cache
+E:\1920-b1-be-OussamaSadik\bin\Release\netcoreapp3.1\appsettings.Development.json
+E:\1920-b1-be-OussamaSadik\bin\Release\netcoreapp3.1\appsettings.json
+E:\1920-b1-be-OussamaSadik\bin\Release\netcoreapp3.1\Properties\launchSettings.json
+E:\1920-b1-be-OussamaSadik\bin\Release\netcoreapp3.1\Backend Develin.exe
+E:\1920-b1-be-OussamaSadik\bin\Release\netcoreapp3.1\Backend Develin.deps.json
+E:\1920-b1-be-OussamaSadik\bin\Release\netcoreapp3.1\Backend Develin.runtimeconfig.json
+E:\1920-b1-be-OussamaSadik\bin\Release\netcoreapp3.1\Backend Develin.runtimeconfig.dev.json
+E:\1920-b1-be-OussamaSadik\bin\Release\netcoreapp3.1\Backend Develin.dll
+E:\1920-b1-be-OussamaSadik\bin\Release\netcoreapp3.1\Backend Develin.pdb
+E:\1920-b1-be-OussamaSadik\bin\Release\netcoreapp3.1\Backend Develin.xml
+E:\1920-b1-be-OussamaSadik\bin\Release\netcoreapp3.1\IdentityServer3.dll
+E:\1920-b1-be-OussamaSadik\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\1920-b1-be-OussamaSadik\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+E:\1920-b1-be-OussamaSadik\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\1920-b1-be-OussamaSadik\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\1920-b1-be-OussamaSadik\bin\Release\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\1920-b1-be-OussamaSadik\bin\Release\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\1920-b1-be-OussamaSadik\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\1920-b1-be-OussamaSadik\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\1920-b1-be-OussamaSadik\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\1920-b1-be-OussamaSadik\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\1920-b1-be-OussamaSadik\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\1920-b1-be-OussamaSadik\bin\Release\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\1920-b1-be-OussamaSadik\bin\Release\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
+E:\1920-b1-be-OussamaSadik\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\1920-b1-be-OussamaSadik\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\1920-b1-be-OussamaSadik\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\1920-b1-be-OussamaSadik\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\1920-b1-be-OussamaSadik\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\1920-b1-be-OussamaSadik\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\1920-b1-be-OussamaSadik\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\1920-b1-be-OussamaSadik\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\1920-b1-be-OussamaSadik\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\1920-b1-be-OussamaSadik\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\1920-b1-be-OussamaSadik\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\1920-b1-be-OussamaSadik\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\1920-b1-be-OussamaSadik\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+E:\1920-b1-be-OussamaSadik\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\1920-b1-be-OussamaSadik\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\1920-b1-be-OussamaSadik\bin\Release\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\1920-b1-be-OussamaSadik\bin\Release\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+E:\1920-b1-be-OussamaSadik\bin\Release\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\1920-b1-be-OussamaSadik\bin\Release\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\1920-b1-be-OussamaSadik\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\1920-b1-be-OussamaSadik\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\1920-b1-be-OussamaSadik\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\1920-b1-be-OussamaSadik\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\1920-b1-be-OussamaSadik\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\1920-b1-be-OussamaSadik\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\1920-b1-be-OussamaSadik\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\1920-b1-be-OussamaSadik\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\1920-b1-be-OussamaSadik\bin\Release\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\1920-b1-be-OussamaSadik\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\1920-b1-be-OussamaSadik\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\1920-b1-be-OussamaSadik\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\1920-b1-be-OussamaSadik\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\1920-b1-be-OussamaSadik\bin\Release\netcoreapp3.1\Namotion.Reflection.dll
+E:\1920-b1-be-OussamaSadik\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+E:\1920-b1-be-OussamaSadik\bin\Release\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+E:\1920-b1-be-OussamaSadik\bin\Release\netcoreapp3.1\NJsonSchema.dll
+E:\1920-b1-be-OussamaSadik\bin\Release\netcoreapp3.1\NSwag.Annotations.dll
+E:\1920-b1-be-OussamaSadik\bin\Release\netcoreapp3.1\NSwag.AspNetCore.dll
+E:\1920-b1-be-OussamaSadik\bin\Release\netcoreapp3.1\NSwag.Core.dll
+E:\1920-b1-be-OussamaSadik\bin\Release\netcoreapp3.1\NSwag.Generation.dll
+E:\1920-b1-be-OussamaSadik\bin\Release\netcoreapp3.1\NSwag.Generation.AspNetCore.dll
+E:\1920-b1-be-OussamaSadik\bin\Release\netcoreapp3.1\NuGet.Frameworks.dll
+E:\1920-b1-be-OussamaSadik\bin\Release\netcoreapp3.1\Owin.dll
+E:\1920-b1-be-OussamaSadik\bin\Release\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\1920-b1-be-OussamaSadik\bin\Release\netcoreapp3.1\System.Composition.Convention.dll
+E:\1920-b1-be-OussamaSadik\bin\Release\netcoreapp3.1\System.Composition.Hosting.dll
+E:\1920-b1-be-OussamaSadik\bin\Release\netcoreapp3.1\System.Composition.Runtime.dll
+E:\1920-b1-be-OussamaSadik\bin\Release\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\1920-b1-be-OussamaSadik\bin\Release\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\1920-b1-be-OussamaSadik\bin\Release\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\1920-b1-be-OussamaSadik\bin\Release\netcoreapp3.1\System.Runtime.Caching.dll
+E:\1920-b1-be-OussamaSadik\bin\Release\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\1920-b1-be-OussamaSadik\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\1920-b1-be-OussamaSadik\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\1920-b1-be-OussamaSadik\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\1920-b1-be-OussamaSadik\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\1920-b1-be-OussamaSadik\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\1920-b1-be-OussamaSadik\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\1920-b1-be-OussamaSadik\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\1920-b1-be-OussamaSadik\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\1920-b1-be-OussamaSadik\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\1920-b1-be-OussamaSadik\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\1920-b1-be-OussamaSadik\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\1920-b1-be-OussamaSadik\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\1920-b1-be-OussamaSadik\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\1920-b1-be-OussamaSadik\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\1920-b1-be-OussamaSadik\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\1920-b1-be-OussamaSadik\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\1920-b1-be-OussamaSadik\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\1920-b1-be-OussamaSadik\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\1920-b1-be-OussamaSadik\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\1920-b1-be-OussamaSadik\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\1920-b1-be-OussamaSadik\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\1920-b1-be-OussamaSadik\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\1920-b1-be-OussamaSadik\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\1920-b1-be-OussamaSadik\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\1920-b1-be-OussamaSadik\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\1920-b1-be-OussamaSadik\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\1920-b1-be-OussamaSadik\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\1920-b1-be-OussamaSadik\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\1920-b1-be-OussamaSadik\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\1920-b1-be-OussamaSadik\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\1920-b1-be-OussamaSadik\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\1920-b1-be-OussamaSadik\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\1920-b1-be-OussamaSadik\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\1920-b1-be-OussamaSadik\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\1920-b1-be-OussamaSadik\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\1920-b1-be-OussamaSadik\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\1920-b1-be-OussamaSadik\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\1920-b1-be-OussamaSadik\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\1920-b1-be-OussamaSadik\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\1920-b1-be-OussamaSadik\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\1920-b1-be-OussamaSadik\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\1920-b1-be-OussamaSadik\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\1920-b1-be-OussamaSadik\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\1920-b1-be-OussamaSadik\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\1920-b1-be-OussamaSadik\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\1920-b1-be-OussamaSadik\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\1920-b1-be-OussamaSadik\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\1920-b1-be-OussamaSadik\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\1920-b1-be-OussamaSadik\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\1920-b1-be-OussamaSadik\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\1920-b1-be-OussamaSadik\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\1920-b1-be-OussamaSadik\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\1920-b1-be-OussamaSadik\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\1920-b1-be-OussamaSadik\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\1920-b1-be-OussamaSadik\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\1920-b1-be-OussamaSadik\bin\Release\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\1920-b1-be-OussamaSadik\bin\Release\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\1920-b1-be-OussamaSadik\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\1920-b1-be-OussamaSadik\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\1920-b1-be-OussamaSadik\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\1920-b1-be-OussamaSadik\obj\Release\netcoreapp3.1\Backend Develin.csprojAssemblyReference.cache
+E:\1920-b1-be-OussamaSadik\obj\Release\netcoreapp3.1\Backend Develin.csproj.CoreCompileInputs.cache
+E:\1920-b1-be-OussamaSadik\obj\Release\netcoreapp3.1\Backend Develin.MvcApplicationPartsAssemblyInfo.cs
+E:\1920-b1-be-OussamaSadik\obj\Release\netcoreapp3.1\Backend Develin.MvcApplicationPartsAssemblyInfo.cache
+E:\1920-b1-be-OussamaSadik\obj\Release\netcoreapp3.1\Backend Develin.AssemblyInfoInputs.cache
+E:\1920-b1-be-OussamaSadik\obj\Release\netcoreapp3.1\Backend Develin.AssemblyInfo.cs
+E:\1920-b1-be-OussamaSadik\obj\Release\netcoreapp3.1\Backend Develin.RazorTargetAssemblyInfo.cache
+E:\1920-b1-be-OussamaSadik\obj\Release\netcoreapp3.1\Backend Develin.csproj.CopyComplete
+E:\1920-b1-be-OussamaSadik\obj\Release\netcoreapp3.1\staticwebassets\Backend Develin.StaticWebAssets.Manifest.cache
+E:\1920-b1-be-OussamaSadik\obj\Release\netcoreapp3.1\staticwebassets\Backend Develin.StaticWebAssets.xml
+E:\1920-b1-be-OussamaSadik\obj\Release\netcoreapp3.1\Backend Develin.dll
+E:\1920-b1-be-OussamaSadik\obj\Release\netcoreapp3.1\Backend Develin.xml
+E:\1920-b1-be-OussamaSadik\obj\Release\netcoreapp3.1\Backend Develin.pdb
+E:\1920-b1-be-OussamaSadik\obj\Release\netcoreapp3.1\Backend Develin.genruntimeconfig.cache

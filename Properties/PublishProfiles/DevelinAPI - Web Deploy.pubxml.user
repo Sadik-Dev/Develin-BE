@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAeMLpb951UEiwaqE5ou2z9gAAAAACAAAAAAAQZgAAAAEAACAAAAAq8FPI5MV4jbAHjdge5gJoU/WJFeJzB1l0vLuPOnILOQAAAAAOgAAAAAIAACAAAACJnPAW7ghZd6CogVVaTk/6fTSeIGOb0w8C4WxKS0pVXoAAAABZ+WmSBKRblGrJE9bwNhoXm4HvJ7CfMxEHZK+6ieVaYZMZKvGzmnRHq7uc0xviwB7CVTpL/+4qjMpvgU5y4Eo0yV607XFKYQVevVbeYdsNABq5mcNPfdv1NoVVRXeKlyGQYCbtz3/A3uCizpoBwQ5B5elIIkInJUpJQe9JdAjyakAAAACxrs8pRPjLE5yeQEFYtAcOrvfpdGCOn9heBAa1IVY+YZ04WqCC01C8Mxe0xbLyymZ1ALbiu2SzJMFIedfsU/B1</EncryptedPassword>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="ProjectContext">
+      <Value>Data Source=tcp:backenddevelindbserver.database.windows.net,1433%3bInitial Catalog=develin_db%3bUser Id=dasik0%40backenddevelindbserver%3bPassword=1974Sadik</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+  <ItemGroup>
+    <EFMigrations Include="Backend_Develin.Data.ProjectContext">
+      <Value>Data Source=tcp:backenddevelindbserver.database.windows.net,1433%3bInitial Catalog=develin_db%3bUser Id=dasik0%40backenddevelindbserver%3bPassword=1974Sadik</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>

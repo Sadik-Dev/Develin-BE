@@ -1,0 +1,118 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Backend Develin</name>
+    </assembly>
+    <members>
+        <member name="M:Backend_Develin.Controllers.CommentsController.GetComment(System.Int32)">
+            <summary>
+            Get the Comment with given id
+            </summary>
+            <param name="id">the id of the Comment</param>
+            <returns>The Comment</returns>
+        </member>
+        <member name="M:Backend_Develin.Controllers.CommentsController.PostComment(System.Int32,Backend_Develin.Models.Comment)">
+            <summary>
+            Add a new Comment to an existing Task
+            </summary>
+            <param name="Comment">the new Task</param>
+            <param name="id">the task where to put the new comment</param>
+        </member>
+        <member name="M:Backend_Develin.Controllers.EmployeesController.GetEmployees">
+            <summary>
+            Get all employees ordered by name
+            </summary>
+            <returns>array of employees</returns>
+        </member>
+        <member name="M:Backend_Develin.Controllers.EmployeesController.GetEmployee(System.Int32)">
+            <summary>
+            Get the employee with given id
+            </summary>
+            <param name="id">the id of the employee</param>
+            <returns>The Employee</returns>
+        </member>
+        <member name="M:Backend_Develin.Controllers.EmployeesController.Authenticate(Backend_Develin.DTOs.LoginDTO)">
+            <summary>
+            Login
+            </summary>
+            <returns>The logged in employee</returns>
+        </member>
+        <member name="M:Backend_Develin.Controllers.EmployeesController.PostEmployee(Backend_Develin.Models.Employee)">
+            <summary>
+            Make a new Employee
+            </summary>
+        </member>
+        <member name="M:Backend_Develin.Controllers.ProjectsController.GetProjects(System.String)">
+            <summary>
+            Get all projects filtered by name if parameter is given
+            </summary>
+            <returns>array of projects</returns>
+        </member>
+        <member name="M:Backend_Develin.Controllers.ProjectsController.GetProject(System.Int32)">
+            <summary>
+            Get the project with given id
+            </summary>
+            <param name="id">the id of the project</param>
+            <returns>The project</returns>
+        </member>
+        <member name="M:Backend_Develin.Controllers.ProjectsController.PostProject(Backend_Develin.Models.Project)">
+            <summary>
+            Adds a new project
+            </summary>
+            <param name="project">the new project</param>
+        </member>
+        <member name="M:Backend_Develin.Controllers.ProjectsController.DeleteProject(System.Int32)">
+            <summary>
+            Deletes a project
+            </summary>
+            <param name="id">the id of the project to be deleted</param>
+        </member>
+        <member name="M:Backend_Develin.Controllers.TasksController.GetTask(System.Int32)">
+            <summary>
+            Get the Task with given id
+            </summary>
+            <param name="id">the id of the Task</param>
+            <returns>The Task</returns>
+        </member>
+        <member name="M:Backend_Develin.Controllers.TasksController.PostTask(System.Int32,Backend_Develin.Models.Task)">
+            <summary>
+            Add a new Task to an existing Project
+            </summary>
+            <param name="task">the new Task</param>
+            <param name="id">the project where to put the new project</param>
+        </member>
+        <member name="M:Backend_Develin.Controllers.TasksController.DeleteTask(System.Int32)">
+            <summary>
+            Deletes a task
+            </summary>
+            <param name="id">the id of the task to be deleted</param>
+        </member>
+        <member name="M:Backend_Develin.Controllers.TasksController.PutTask(System.Int32,Backend_Develin.Models.Task)">
+            <summary>
+            Modifies a Task
+            </summary>
+            <param name="id">id of the task to be modified</param>
+        </member>
+        <member name="M:Backend_Develin.Data.Repositories.ProjectEmployeesController.GetProjectEmployee(System.Int32,System.Int32)">
+            <summary>
+            Get the Employee of a Project with the project 
+            </summary>
+            <param name="eid">the id of the Employee</param>
+            <param name="pid">the id of the Project</param>
+            <returns>The ProjectEmployee</returns>
+        </member>
+        <member name="M:Backend_Develin.Data.Repositories.ProjectEmployeesController.PostProjectEmployee(Backend_Develin.Models.ProjectEmployee)">
+            <summary>
+            Adds an existing employee to an existing Project
+            </summary>
+            <param name="projectEmployee">the project with the employee object</param>
+        </member>
+        <member name="M:Backend_Develin.Data.Repositories.ProjectEmployeesController.DeleteEmployee(System.Int32,System.Int32)">
+            <summary>
+            Deletes a employee from a project
+            </summary>
+            <param name="eid">the id of the employee to be deleted from a project</param>
+            <param name="pid">the id of the project where the employee has to be deleted from</param>
+        </member>
+    </members>
+</doc>
