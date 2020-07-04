@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "07vK/qFoJGa2syDOKhQOeZKJ8tCcwhSvHih1KYNyNJndRBTy6RBckMp1WkwAB1kfwm8ovrw8gIRrI8PuILa5Qg==",
+  "dgSpecHash": "IgeQoH5AJdWXw0ksyqV6HdvAyntDXQvRE5syykIVC53ZSKZdJwITj1qAjhxrlWGw7seiuV0LdyaurVuh1L9tXg==",
   "success": true,
-  "projectFilePath": "E:\\1920-b1-be\\Backend Develin.csproj",
+  "projectFilePath": "E:\\Develin-BE\\Backend Develin.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dsk0\\.nuget\\packages\\identityserver3\\2.6.3\\identityserver3.2.6.3.nupkg.sha512",
     "C:\\Users\\Dsk0\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\3.1.4\\microsoft.aspnetcore.authentication.jwtbearer.3.1.4.nupkg.sha512",
