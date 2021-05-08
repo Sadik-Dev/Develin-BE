@@ -1,6 +1,6 @@
 # Develin API
 
-Develin API is de back-end van [develin](https://github.com/Sadik-Dev/Develin) en is noodzakelijk om het web applicatie te kunnen gebruiken.
+Develin API is de back-end van [develin](https://github.com/Web-IV/1920-b1-fe-OussamaSadik/blob/master/README.md) en is noodzakelijk om het web applicatie te kunnen gebruiken.
 
 
 ## Installation
