@@ -148,7 +148,7 @@ namespace Backend_Develin
 
        
             
-           // initializer.LoadDB();
+            initializer.LoadDB();
         }
 
         

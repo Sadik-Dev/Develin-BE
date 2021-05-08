@@ -10087,11 +10087,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Develin-BE\\Backend Develin.csproj",
+      "projectUniqueName": "E:\\1920-b1-be\\Backend Develin.csproj",
       "projectName": "Backend Develin",
-      "projectPath": "E:\\Develin-BE\\Backend Develin.csproj",
+      "projectPath": "E:\\1920-b1-be\\Backend Develin.csproj",
       "packagesPath": "C:\\Users\\Dsk0\\.nuget\\packages\\",
-      "outputPath": "E:\\Develin-BE\\obj\\",
+      "outputPath": "E:\\1920-b1-be\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Dsk0\\AppData\\Roaming\\NuGet\\NuGet.Config",
